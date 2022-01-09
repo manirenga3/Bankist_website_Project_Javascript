@@ -1,1 +1,1 @@
-Visit @https://bankist-website-manirenga3.netlify.app/
+Visit @https://bankist-site-manirenga3.netlify.app/
